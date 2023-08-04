@@ -1,16 +1,30 @@
-# project07
+# Quotes Flutter Application
+-------------
+#### Design Credit : By  [Gerges Mikhail](https://www.linkedin.com/in/gerges-mikhail-8578661ba/)
+-------------  
+## Screenshots 
+<img src="assets/cover.png" width="600" height="300" />
+<p float="left">
+<img src="assets/1.jpg" width="100" height="250" />
+<img src="assets/2.jpg" width="100" height="250" />
+<img src="assets/3.jpg" width="100" height="250" />
+<img src="assets/4.jpg" width="100" height="250" />
+<img src="assets/5.jpg" width="100" height="250" />
+<img src="assets/6.jpg" width="100" height="250" />
+<img src="assets/7.jpg" width="100" height="250" />
+<img src="assets/8.jpg" width="100" height="250" />
+<img src="assets/9.jpg" width="100" height="250" />
+<img src="assets/10.jpg" width="100" height="250" />
+<img src="assets/11.jpg" width="100" height="250" />
+<img src="assets/12.jpg" width="100" height="250" />
+<img src="assets/13.jpg" width="100" height="250" />
+<img src="assets/14.jpg" width="100" height="250" />
+<img src="assets/15.jpg" width="100" height="250" />
+<img src="assets/16.jpg" width="100" height="250" />
+<img src="assets/17.jpg" width="100" height="250" />
+<img src="assets/18.jpg" width="100" height="250" />
+<img src="assets/19.jpg" width="100" height="250" />
+<img src="assets/20.jpg" width="100" height="250" />
+</p>
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
